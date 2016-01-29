@@ -1,0 +1,6 @@
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\bin\Debug\MatricaTests.dll
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\bin\Debug\MatricaTests.pdb
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\obj\Debug\MatricaTests.csprojResolveAssemblyReference.cache
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\obj\Debug\MatricaTests.dll
+C:\Users\Zahariya\Desktop\MatricaSec\MatricaTests\obj\Debug\MatricaTests.pdb
